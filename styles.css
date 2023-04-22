@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header, .footer {
+    background-color: #cccccc;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.main {
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 2em;
+    flex: 1;
+}
+
+
+.add-border {
+    border: 1px solid black;
+}
