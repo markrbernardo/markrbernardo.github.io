@@ -12,7 +12,15 @@ body {
     justify-content: space-between;
 }
 
+h1 {
+    font-size: 48pt;
+}
+
+h4 {
+    font-size: 11pt;
+}
 a {
+    font-size: 16pt;
     text-decoration: none;
 }
 
